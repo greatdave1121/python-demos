@@ -4,8 +4,8 @@ This repository contains various python examples that I'm working on to learn py
 
 ## Contents
 
-*Password Checker
-*User interaction program
+Password Checker
+User interaction program
 
 ## Usage
 
