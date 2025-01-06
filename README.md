@@ -12,6 +12,7 @@ This repository contains various python examples that I'm working on to learn py
 - Swordfish.py (A simple program that requests name and password.)
 - example.py 
 - fiveTime.py
+- forLoop.py
 
 ## Usage
 
