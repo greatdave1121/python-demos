@@ -7,7 +7,6 @@ Losses = 0
 Ties = 0
 
 while True:
-    #print("%s Wins, %s Losses, %s Ties" %(Wins, Losses, Ties))
     print(Wins,"Wins,", Losses,"Losses,", Ties,"Ties")
 
     while True:
