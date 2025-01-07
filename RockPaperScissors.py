@@ -7,7 +7,7 @@ Losses = 0
 Ties = 0
 
 while True:
-    print(Wins,"Wins,", Losses,"Losses,", Ties,"Ties")
+    print(f"{Wins} Wins, {Losses} Losses, {Ties} Ties")
 
     while True:
         print("Enter your move: (r)ock (p)aper (s)cissors or (q)uit")
