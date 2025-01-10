@@ -14,6 +14,7 @@ This repository contains various python examples that I'm working on to learn py
 - fiveTime.py
 - forLoop.py
 - RockPaperScissors.py (ROCK, PAPER, SCISSORS GAME)
+- guessTheNumber.py (Guess the number game)
 
 ## Usage
 
