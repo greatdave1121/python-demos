@@ -13,6 +13,7 @@ This repository contains various python examples that I'm working on to learn py
 - example.py 
 - fiveTime.py
 - forLoop.py
+- guessTheNumber.py 
 - RockPaperScissors.py (ROCK, PAPER, SCISSORS GAME)
 
 ## Usage
