@@ -16,7 +16,8 @@ This repository contains various python examples that I'm working on to learn py
 - guessTheNumber.py 
 - RockPaperScissors.py (ROCK, PAPER, SCISSORS GAME)
 - magic8Ball.py
-- BMI Calculator
+- BMI Calculator (A simple program that calculates Body Mass Index(BMI))
+- Banking Program (A simple program that checks balance, make deposits and withdrawals)
 
 ## Usage
 
