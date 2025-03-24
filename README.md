@@ -18,6 +18,7 @@ This repository contains various python examples that I'm working on to learn py
 - magic8Ball.py
 - BMI Calculator (A simple program that calculates Body Mass Index(BMI))
 - Banking Program (A simple program that checks balance, make deposits and withdrawals)
+- zigzag.py (A simple program to draw a zigzag with an infinite loop)
 
 ## Usage
 
