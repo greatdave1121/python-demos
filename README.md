@@ -16,6 +16,7 @@ This repository contains various python examples that I'm working on to learn py
 - guessTheNumber.py 
 - RockPaperScissors.py (ROCK, PAPER, SCISSORS GAME)
 - magic8Ball.py
+- allMyCats.py (A short program that automatically updates the name of your cats list.)
 
 ## Usage
 
