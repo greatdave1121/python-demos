@@ -20,6 +20,7 @@ This repository contains various python examples that I'm working on to learn py
 - BMI Calculator (A simple program that calculates Body Mass Index(BMI))
 - Banking Program (A simple program that checks balance, make deposits and withdrawals)
 - zigzag.py (A simple program that draws a zigzag with an infinite loop)
+- magic8Ball2.py
 
 ## Usage
 
@@ -29,3 +30,4 @@ Clone this repository, navigate to the specific example folder, and run the pyth
 
 This project is open-source. Feel free to contribute!
 
+fjfhrgfu  urhywhf uiwrhurw iueuf
