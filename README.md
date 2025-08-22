@@ -21,6 +21,7 @@ This repository contains various python examples that I'm working on to learn py
 - Banking Program (A simple program that checks balance, make deposits and withdrawals)
 - zigzag.py (A simple program that draws a zigzag with an infinite loop)
 - magic8Ball2.py
+- A simple program that creates an initial dictionary and stores it in birthdays
 
 ## Usage
 
